@@ -1,0 +1,36 @@
+p {
+  font-size: 10px;
+  color: red;
+}
+
+.test {
+  max-width: 20%;
+  padding: 100px;
+  border: 10px outset #c75e21;
+}
+
+#container {
+  display: flex;
+  flex-direction: row;
+}
+
+.elementOne {
+  color: var(#636318);
+  background-color: var(#4343b8);
+  margin: 10px;
+  display: inline-block;
+}
+
+.elementTwo {
+  color: var(#10164e);
+  background-color: var(#c75e21);
+  margin: 10px;
+  display: inline-block;
+}
+
+.elementThree {
+  color: var(#636318);
+  background-color: var(#4343b8);
+  margin: 10px;
+  display: inline-block;
+}/*# sourceMappingURL=styles.css.map */
